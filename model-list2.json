@@ -1,13 +1,13 @@
 {
-  "version": "1.0",
-  "lastUpdated": "2024-11-02",
+  "version": "2.0",
+  "lastUpdated": "2024-11-03",
   "models": [
     {
       "id": "markov-chain-v1",
       "name": "Markov Chain Predictor",
       "version": "1.0",
       "description": "First-order Markov chain analysis of multiplier transitions",
-      "author": "Your Name",
+      "author": "AI Assistant",
       "url": "https://cdn.jsdelivr.net/gh/claudextra60-stack/crash-predictor-models@main/models/model-markov-chain.js",
       "dateAdded": "2024-11-02"
     },
@@ -16,11 +16,54 @@
       "name": "Moving Average Predictor",
       "version": "1.0",
       "description": "Weighted moving average of recent games",
-      "author": "Your Name",
+      "author": "AI Assistant",
       "url": "https://cdn.jsdelivr.net/gh/claudextra60-stack/crash-predictor-models@main/models/model-moving-average.js",
       "dateAdded": "2024-11-02"
+    },
+    {
+      "id": "ema-v1",
+      "name": "Exponential Moving Average",
+      "version": "1.0",
+      "description": "EMA with adaptive smoothing factor based on volatility",
+      "author": "AI Assistant",
+      "url": "https://cdn.jsdelivr.net/gh/claudextra60-stack/crash-predictor-models@main/models/model-ema.js",
+      "dateAdded": "2024-11-03"
+    },
+    {
+      "id": "mean-reversion-v1",
+      "name": "Mean Reversion Predictor",
+      "version": "1.0",
+      "description": "Predicts return to mean after extreme values",
+      "author": "AI Assistant",
+      "url": "https://cdn.jsdelivr.net/gh/claudextra60-stack/crash-predictor-models@main/models/model-mean-reversion.js",
+      "dateAdded": "2024-11-03"
+    },
+    {
+      "id": "momentum-v1",
+      "name": "Momentum Predictor",
+      "version": "1.0",
+      "description": "Tracks short-term momentum and trend strength",
+      "author": "AI Assistant",
+      "url": "https://cdn.jsdelivr.net/gh/claudextra60-stack/crash-predictor-models@main/models/model-momentum.js",
+      "dateAdded": "2024-11-03"
+    },
+    {
+      "id": "pattern-recognition-v1",
+      "name": "Pattern Recognition",
+      "version": "1.0",
+      "description": "Detects and matches historical patterns",
+      "author": "AI Assistant",
+      "url": "https://cdn.jsdelivr.net/gh/claudextra60-stack/crash-predictor-models@main/models/model-pattern-recognition.js",
+      "dateAdded": "2024-11-03"
+    },
+    {
+      "id": "volatility-adjusted-v1",
+      "name": "Volatility-Adjusted Predictor",
+      "version": "1.0",
+      "description": "Adapts predictions based on market volatility",
+      "author": "AI Assistant",
+      "url": "https://cdn.jsdelivr.net/gh/claudextra60-stack/crash-predictor-models@main/models/model-volatility-adjusted.js",
+      "dateAdded": "2024-11-03"
     }
   ]
-
 }
-
