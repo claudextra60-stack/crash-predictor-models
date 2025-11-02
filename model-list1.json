@@ -8,7 +8,7 @@
       "version": "1.0",
       "description": "First-order Markov chain analysis of multiplier transitions",
       "author": "Your Name",
-      "url": "https://cdn.jsdelivr.net/gh/claudextra60-stack/crash-predictor-models@main/models/markov-chain.js",
+      "url": "https://cdn.jsdelivr.net/gh/claudextra60-stack/crash-predictor-models@main/models/model-markov-chain.js",
       "dateAdded": "2024-11-02"
     },
     {
@@ -17,9 +17,10 @@
       "version": "1.0",
       "description": "Weighted moving average of recent games",
       "author": "Your Name",
-      "url": "https://cdn.jsdelivr.net/gh/claudextra60-stack/crash-predictor-models@main/models/moving-average.js",
+      "url": "https://cdn.jsdelivr.net/gh/claudextra60-stack/crash-predictor-models@main/models/model-moving-average.js",
       "dateAdded": "2024-11-02"
     }
   ]
 
 }
+
