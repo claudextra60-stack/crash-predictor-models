@@ -7,7 +7,7 @@
       "description": "State-based transition analysis using 4 multiplier ranges",
       "author": "CrashAnalytics",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/YOUR_USERNAME/crash-predictor-models/main/models/markov-chain-model.js",
+      "url": "https://raw.githubusercontent.com/claudextra60-stack/crash-predictor-models/main/models/markov-chain-model.js",
       "minGames": 100,
       "recommended": true
     },
@@ -17,9 +17,10 @@
       "description": "Exponential moving average with recent game emphasis",
       "author": "CrashAnalytics",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/YOUR_USERNAME/crash-predictor-models/main/models/moving-average-model.js",
+      "url": "https://raw.githubusercontent.com/claudextra60-stack/crash-predictor-models/main/models/moving-average-model.js",
       "minGames": 50,
       "recommended": false
     }
   ]
+
 }
