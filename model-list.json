@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2024-11-02",
+  "models": [
+    {
+      "id": "markov-chain-v1",
+      "name": "Markov Chain Predictor",
+      "version": "1.0",
+      "description": "First-order Markov chain analysis of multiplier transitions",
+      "author": "Your Name",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_USERNAME/crash-predictor-models@main/models/markov-chain.js",
+      "dateAdded": "2024-11-02"
+    },
+    {
+      "id": "moving-avg-v1",
+      "name": "Moving Average Predictor",
+      "version": "1.0",
+      "description": "Weighted moving average of recent games",
+      "author": "Your Name",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_USERNAME/crash-predictor-models@main/models/moving-average.js",
+      "dateAdded": "2024-11-02"
+    }
+  ]
+}
