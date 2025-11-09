@@ -1,0 +1,51 @@
+{
+  "version": "2.2",
+  "lastUpdated": "2024-11-09",
+  "models": [
+    {
+      "id": "markov-chain-v1",
+      "name": "Markov Chain Predictor",
+      "version": "1.0",
+      "description": "First-order Markov chain analysis of multiplier transitions",
+      "author": "AI Assistant",
+      "url": "https://cdn.jsdelivr.net/gh/claudextra60-stack/crash-predictor-models@main/models/model-markov-chain.js",
+      "dateAdded": "2024-11-02"
+    },
+    {
+      "id": "ema-v1",
+      "name": "Exponential Moving Average",
+      "version": "1.0",
+      "description": "EMA with adaptive smoothing factor based on volatility",
+      "author": "AI Assistant",
+      "url": "https://cdn.jsdelivr.net/gh/claudextra60-stack/crash-predictor-models@main/models/model-ema.js",
+      "dateAdded": "2024-11-03"
+    },
+    {
+      "id": "lstm-v1",
+      "name": "LSTM Sequential Predictor",
+      "version": "1.0",
+      "description": "Deep learning LSTM network for time series prediction",
+      "author": "AI Assistant",
+      "url": "https://cdn.jsdelivr.net/gh/claudextra60-stack/crash-predictor-models@main/models/model-lstm.js",
+      "dateAdded": "2024-11-08"
+    },
+    {
+      "id": "hybrid-transformer-v1",
+      "name": "Hybrid Deep Learning Predictor",
+      "version": "1.0",
+      "description": "State-of-the-art LSTM + CNN + Transformer architecture",
+      "author": "AI Assistant",
+      "url": "https://cdn.jsdelivr.net/gh/claudextra60-stack/crash-predictor-models@main/models/model-hybrid-transformer.js",
+      "dateAdded": "2024-11-08"
+    },
+    {
+      "id": "arima-garch-v1",
+      "name": "ARIMA-GARCH Predictor",
+      "version": "1.0",
+      "description": "Autoregressive model with GARCH-style volatility adjustment",
+      "author": "AI Assistant",
+      "url": "https://cdn.jsdelivr.net/gh/claudextra60-stack/crash-predictor-models@main/models/model-arima-garch.js",
+      "dateAdded": "2024-11-09"
+    }
+  ]
+}
