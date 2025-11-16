@@ -1,7 +1,17 @@
 {
-  "version": "2.2",
-  "lastUpdated": "2024-11-09",
+  "version": "2.3",
+  "lastUpdated": "2024-11-16",
   "models": [
+    {
+      "id": "hash-distribution-v1",
+      "name": "Hash Distribution Predictor",
+      "version": "1.0",
+      "description": "EVT + KDE analysis of hash-derived multiplier distribution",
+      "author": "Claude AI",
+      "url": "https://cdn.jsdelivr.net/gh/claudextra60-stack/crash-predictor-models@main/models/model-hash-distribution.js",
+      "dateAdded": "2024-11-16",
+      "featured": true
+    },
     {
       "id": "markov-chain-v1",
       "name": "Markov Chain Predictor",
